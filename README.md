@@ -29,8 +29,9 @@ Azure, Docker, GitHub, GitLab, Bitbucket, Nx Monorepo, Sentry
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodion-24&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodion-24&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodion-24&show_icons=true&hide_border=true) \
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodion-24&layout=compact&hide_border=true) \
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rodion-24&hide_border=true)
 
 ---
 
